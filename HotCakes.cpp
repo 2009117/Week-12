@@ -4,6 +4,7 @@ En el siguiente, programa se va a mostrar
 el precio del producto.txt
 
 HotCakes= $90
+Este es un ejemplo de lectura de archivos
 
 *******************************************/
 
