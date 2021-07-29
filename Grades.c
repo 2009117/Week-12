@@ -1,4 +1,4 @@
-//Este es un ejemplo lectura de archivos
+//Este es un ejemplo escritura de archivos
 #include <stdio.h>
 #include <stdlib.h>
 
