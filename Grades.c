@@ -1,3 +1,4 @@
+//Este es un ejemplo lectura de archivos
 #include <stdio.h>
 #include <stdlib.h>
 
