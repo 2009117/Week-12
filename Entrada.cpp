@@ -1,3 +1,4 @@
+//Este es un ejemplo de escritura de archivos
 #include <iostream>
 #include <stdlib.h>
 #include <fstream>
