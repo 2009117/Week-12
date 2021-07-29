@@ -4,6 +4,8 @@ Este programa va leer los valores de un
 archivo .txt donde se encuentre el numero 
 de personas que han entrado en una plaza
 
+Este es el ejemplo de Lectura 
+
 **************************************/
 
 #include <iostream>
